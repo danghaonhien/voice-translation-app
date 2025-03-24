@@ -18,6 +18,7 @@ LinguaLoop is a mobile application that helps users communicate in foreign langu
 - Node.js (v16 or newer)
 - npm or yarn
 - Expo CLI (`npm install -g expo-cli`)
+- Expo Go app (compatible with SDK 52.0.0)
 
 ### Installation
 
